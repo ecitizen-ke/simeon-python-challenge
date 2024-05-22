@@ -1,0 +1,1 @@
+this is a python challenge to test for a palindrome value
