@@ -26,3 +26,4 @@ if __name__ == "__main__":
         print(f'Cleaned string: "{cleaned_str}"')
         # Log the input and result
         logging.info(f'Input: "{user_input}", Cleaned: "{cleaned_str}", Is Palindrome: {result}')
+
